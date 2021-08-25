@@ -1,5 +1,5 @@
 {
-  "homepage": "https://amitsarmal.github.io/React-app",
+  
   "name": "firstproj",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +38,16 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+
+
+
+
+    "node": "v14.17.1",
+ 
+    "npm": ">=6.14.13"
+ 
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
